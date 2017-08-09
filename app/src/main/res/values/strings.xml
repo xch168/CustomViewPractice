@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CustomViewPractice</string>
+    <string name="title_activity_draw_base">1-1：绘制基础</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

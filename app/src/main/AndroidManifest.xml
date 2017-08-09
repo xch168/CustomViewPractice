@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity
+            android:name=".DrawBaseActivity"
+            android:label="@string/title_activity_draw_base">
+        </activity>
     </application>
 
 </manifest>
